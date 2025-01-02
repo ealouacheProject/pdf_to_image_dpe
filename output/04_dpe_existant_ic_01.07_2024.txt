@@ -1,0 +1,486 @@
+DPE
+diagnostic de performance
+énergétique (bâtiment d’habitation collectif)
+n° : 2D20210532L1A
+établi le : 12/07/2021
+valable jusqu’au : 11/07/2031
+Ce document vous permet de savoir si votre logement est économe en énergie et préserve le climat. Il vous donne également des pistes pour
+améliorer ses performances et réduire vos factures. Pour en savoir plus : <urlgouvguidepédagogique>
+<photo du bien>
+adresse : 42 bd de la République, 26000 Valence
+type de bien : immeuble collectif
+année de construction : 1960
+surface de référence: 935m2
+nombre de logements : 15
+propriétaire : Syndicat des copropriétaires
+adresse : 25 place de la Mairie, 26000 Valence
+Performance énergétique et climatique
+bâtiment extrêmement performant
+consommation
+(énergie primaire) émissions
+241
+kWh/m2/an
+52
+kg CO₂/m²/an
+235 kWh/m²/an
+d’énergie finale
+passoire
+énergétique
+ Dont émissions de gaz
+à effet de serre
+peu d’émissions de CO₂
+52 kg CO₂/m²/an
+émissions de CO₂
+très importantes
+bâtiment extrêmement peu performant
+Le niveau de consommation énergétique dépend de l’isolation du
+bâtiment et de la performance des équipements.
+Pour l’améliorer, voir pages 5 à 6.
+Ce bâtiment émet 49 124kg de CO₂ par
+an, soit l’équivalent de 254 533 km
+parcourus en voiture.
+Le niveau d’émissions dépend
+principalement des types d’énergies
+utilisées (bois, électricité, gaz, fioul, etc.).
+Estimation des coûts annuels d’énergie du bâtiment
+Les coûts sont estimés en fonction des caractéristiques de votre bâtiment et pour une utilisation standard sur 5 usages (chauffage, eau chaude sanitaire,
+climatisation, éclairage, auxiliaires) voir  les détails par poste.
+entre
+13 680 € 18 560 €
+et
+par an
+Prix moyens des énergies indexés sur les années 2021, 2022 et 2023 (abonnements compris)
+Comment réduire ma facture d’énergie ?
+voir 
+Informations diagnostiqueur
+PM Diagnostics
+12 rue de la Liberté,
+26000 Valence
+diagnostiqueur : Pierre Martin
+tel : 04 88 22 33 09
+email : Pierre@pm-diagnostics.fr
+n° de certification : FR410230 49
+organisme de certification : CERTIF 311
+LOGO
+À l’attention du propriétaire du bien au moment de la réalisation du DPE : Dans le cadre du Règlement général sur la protection des données (RGPD), l’Ademe vous informe que vos données personnelles (Nom-Prénom-Adresse) sont
+stockées dans la base de données de l’observatoire DPE à des fins de contrôles ou en cas de contestations ou de procédures judiciaires. Ces données sont stockées jusqu’à la date de fin de validité du DPE. Vous disposez d’un droit
+d’accès, de rectification, de portabilité, d’effacement ou une limitation du traitement de ces données. Si vous souhaitez faire valoir votre droit, veuillez nous contacter à l’adresse mail indiquée à la page «Contacts» de l’Observatoire DPE
+(https://observatoire-dpe.ademe.fr/).
+Exemple de DPE, données fictives non représentatives
+Schéma des déperditions de chaleur
+Performance de l’isolation
+ventilation
+7%
+toiture ou
+plafond
+21%
+portes
+et fenêtres
+12%
+INSUFFISANTE
+MOYENNE
+BONNE
+TRÈS BONNE
+murs
+34%
+Système de ventilation en place
+ponts thermiques
+8%
+plancher bas
+18%
+Ventilation mécanique contrôlée
+simple flux autoréglable.
+Confort d’été (hors climatisation)
+Production d’énergies renouvelables
+Le niveau de confort d’été
+est variable selon les logements
+et ne peut être évalué à l’échelle
+du bâtiment.
+INSUFFISANT
+MOYEN
+BON
+Les caractéristiques de votre bâtiment améliorant le
+confort d’été :
+bonne inertie du bâtiment
+fenêtres équipées de volets
+extérieurs
+Pour améliorer le confort d’été :
+Faites isoler la toiture du bâtiment.
+Ce bâtiment n’est pas encore équipé de systèmes de
+production d’énergies renouvelables.
+Diverses solutions existent :
+pompe à chaleur
+chauffe eau
+thermodynamique
+panneaux solaires
+photovoltaïques
+panneaux solaires
+thermiques
+réseau de
+chaleur vertueux
+géothermie
+chauffage au
+bois
+DPE diagnostic de performance énergétique (bâtiment d’habitation collectif)
+Exemple de DPE, données fictives non représentatives
+
+DPE diagnostic de performance énergétique (logement)
+
+Montants et consommations annuels d’énergie
+usage
+consommation d’énergie
+(en kWh énergie primaire)
+frais annuels d’énergie
+(fourchette d’estimation)
+répartition des dépenses
+chauffage
+gaz naturel
+163 625  (163 625 é.f.)
+entre 9320€ et 12620€
+eau chaude
+sanitaire
+gaz naturel
+51 425  (51 425 é.f.)
+entre 2930€ et 3970€
+68%
+22%
+refroidissement
+0  (0 é.f.)
+0€
+éclairage
+électrique
+4 301  (1 870 é.f.)
+entre 570€ et 790€
+auxiliaires
+électrique
+6 451 (2 805 é.f.)
+entre 860€ et 1180€
+énergie totale pour les
+usages recensés :
+225 802 kWh
+(219 725 kWh é.f.)
+entre 13 680€
+et 18 560€ par an
+0%
+4%
+6%
+Pour rester dans cette fourchette
+d’estimation, voir les recommandations
+d’usage ci-dessous.
+Conventionnellement, ces chiffres sont donnés pour une température
+de chauffage de 19°C réduite à 16°C la nuit ou en cas d’absence
+du domicile, une climatisation réglée à 28°C (si présence de
+climatisation), et une consommation d’eau chaude moyenne de 105ℓ
+par logement et par jour.
+é.f. → énergie finale
+ Prix moyens des énergies indexés sur les années 2021, 2022 et 2023 (abonnements
+compris)
+Seules les consommations d’énergie nécessaires au chauffage, à la climatisation, à la
+production d’eau chaude sanitaire, à l’éclairage et aux auxiliaires (ventilateurs, pompes)
+sont prises en compte dans cette estimation.  Les consommations liées aux autres
+usages (électroménager, appareils électroniques...) ne sont pas comptabilisées.
+Les factures réelles dépendront de nombreux facteurs : prix des énergies, météo de
+l’année (hiver froid ou doux...), nombre de personnes dans le logement et habitudes de
+vie, entretien des équipements...
+Recommandations d’usage pour votre bâtiment
+Quelques gestes simples pour maîtriser votre facture d’énergie :
+Température recommandée en hiver → 19°C
+Chauffer à 19°C plutôt que 21°C,
+c’est -16% sur votre facture
+astuces (plus facile si le bâtiment dispose
+de solutions de pilotage efficaces)
+→ Diminuez le chauffage quand vous
+n’êtes pas là.
+→ Chauffez les chambres à 17°C la nuit.
+Si climatisation,
+température recommandée en été → 28°C
+astuces
+→ Fermez les fenêtres et volets la
+journée quand il fait chaud.
+→ Aérez votre logement la nuit.
+Consommation recommandée par logement
+→ 105ℓ/jour d’eau chaude à 40°C
+Estimation faite par rapport à la surface d’un logement moyen
+(1-2 personnes). Une douche de 5 minutes = environ 40ℓ.
+43ℓ consommés en moins par jour,
+c’est -29% sur votre facture
+astuces
+→ Installez des mousseurs d’eau sur
+les robinets et un pommeau à faible
+débit sur la douche.
+→ Réduisez la durée des douches.
+En savoir plus sur les bons réflexes d’économie d’énergie :
+france-renov.gouv.fr
+Exemple de DPE, données fictives non représentatives
+DPE diagnostic de performance énergétique (bâtiment d’habitation collectif)
+
+Voir en annexe le descriptif détaillé du bâtiment et de ses équipements.
+Vue d’ensemble du bâtiment
+description
+murs
+Murs en blocs de béton pleins donnant sur l’extérieur, sans isolation.
+isolation
+insuffisante
+plancher bas
+Dalle béton donnant sur un sous-sol non chauffé, isolation inconnue.
+moyenne
+toiture/plafond
+Dalle béton donnant sur l’extérieur, sans isolation.
+insuffisante
+portes et fenêtres
+Portes bois opaques pleines.
+Portes PVC opaques pleines.
+Fenêtres coulissantes bois, simple vitrage et volets roulants bois.
+Fenêtres coulissantes PVC, double vitrage et volets roulants PVC.
+Fenêtres coulissantes bois, simple vitrage et volets roulants bois.
+Fenêtres coulissantes PVC, double vitrage et volets roulants PVC.
+bonne
+Vue d’ensemble des équipements
+description
+chauffage
+Chaudière gaz standard double service chauffage et ECS installée entre 2001 et 2015 sur radiateurs
+à eau chaude (système collectif).
+eau chaude sanitaire
+Chaudière gaz standard double service chauffage et ECS installée entre 2001 et 2015, à
+accumulation avec ballon séparé, réseau bouclé (système collectif).
+climatisation
+Sans objet
+ventilation
+VMC simple flux autoréglable installée avant 1982.
+pilotage
+Radiateurs avec robinet thermostatique.
+Recommandations de gestion et d’entretien des équipements
+Pour maîtriser vos consommations d’énergie, la bonne gestion et l’entretien régulier des équipements de votre bâtiment
+sont essentiels.
+ventilation
+chaudière
+type d’entretien
+Ne pas obstruer les entrées d’air. Les nettoyer à l’aide d’un chiffon sec → au moins 1 fois par an
+Nettoyer les bouches d’extraction → au moins 2 fois par an
+Entretien des conduits par un professionnel → tous les 3 à 5 ans
+Aérer les pièces 5 minutes par jour, fenêtres grandes ouvertes.
+Entretien obligatoire par un professionnel → 1 fois par an
+Abaisser la température de 2 à 3°C la nuit.
+radiateurs
+Dépoussiérer les radiateurs régulièrement.
+circuit de chauffage
+Faire désembouer le circuit de chauffage par un professionnel → tous les 10 ans
+Veiller au bon équilibrage de l’installation de chauffage.
+chauffe-eau
+Régler la température du chauffe-eau entre 55 et 60°C.
+éclairages
+Nettoyer les ampoules et les luminaires.
+Exemple de DPE, données fictives non représentatives
+DPE diagnostic de performance énergétique (bâtiment d’habitation collectif)
+
+Recommandations d’amélioration de la performance
+Des travaux peuvent vous permettre d’améliorer significativement l’efficacité énergétique de votre
+bâtiment et ainsi de faire des économies d’énergie, d’améliorer son confort, de le valoriser et de le
+rendre plus écologique. Le pack       de travaux vous permet de réaliser les travaux prioritaires,
+et le pack        d’aller vers un bâtiment très performant.
+Si vous en avez la possibilité, il est plus efficace et rentable de procéder à une rénovation globale de
+votre bâtiment (voir packs de travaux       +      ci-dessous). La rénovation performante par étapes est
+aussi une alternative possible (réalisation du pack       avant le pack      ). Faites-vous accompagner par
+un professionnel compétent (bureau d’études, architecte, entreprise générale de travaux, groupement
+d’artisans...) pour préciser votre projet et coordonner vos travaux.
+1
+lot
+Les travaux essentiels montant estimé : 90 000 à 150 000€
+description
+performance recommandée
+toiture et combles
+murs
+Isolation de la toiture par l’extérieur.
+Ne surtout pas isoler en sous-face une dalle de béton car
+cela risquerait de causer la stagnation de l’humidité dans la
+dalle et une détérioration rapide de la toiture.
+travaux pouvant nécessiter une autorisation d’urbanisme
+Isolation des murs par l’extérieur.
+Si un ravalement de façade est prévu, effectuer une isolation
+par l’extérieur avec des retours d’isolants au niveau des
+tableaux des baies quand cela est possible.
+travaux pouvant nécessiter une autorisation d’urbanisme
+R = 10 m2.K/W
+R = 6 m2.K/W
+chauffage
+Calorifugeage du réseau de distribution hors volume chauffé.
+eau chaude sanitaire Calorifugeage du réseau de distribution hors volume chauffé.
+2
+lot
+Les travaux à envisager montant estimé : 80 000 à 140 000€
+description
+performance recommandée
+eau chaude sanitaire
+Remplacer la chaudière actuelle par une pompe à chaleur
+air/eau double service chauffage et ECS.
+SCOP = 4
+chauffage
+Remplacer la chaudière actuelle par une pompe à chaleur
+air/eau double service chauffage et ECS.
+COP = 4
+portes et fenêtres
+Remplacer les fenêtres PVC simple vitrage par des fenêtres
+PVC double vitrage à isolation renforcée.
+travaux pouvant nécessiter une autorisation d’urbanisme
+Uw = 1,3 W/m2.K, Sw = 0,42
+ventilation
+Installer une VMC hydroréglable type B.
+Commentaires :
+Exemple de DPE, données fictives non représentatives
+DPE diagnostic de performance énergétique (bâtiment d’habitation collectif)
+
+Recommandations d’amélioration de la performance (suite)
+Évolution de la performance après travaux
+bâtiment extrêmement performant
+avec travaux      +
+consommation : 98 kWh/m2/an
+émissions : 10 kg CO₂/m²/an
+avec travaux
+consommation : 155 kWh/m2/an
+émissions : 23 kg CO₂/m²/an
+état actuel
+consommation : 241 kWh/m2/an
+émissions : 52 kg CO₂/m²/an
+AA
+BB
+CC
+DD
+EE
+FF
+GG
+bâtiment extrêmement peu performant
+Dont émissions de gaz à effet de serre
+peu d’émissions de CO₂
+avec travaux      +
+10 kg CO₂/m2/an
+avec travaux
+23 kg CO₂/m2/an
+état actuel
+52 kg CO₂/m2/an
+AA
+BB
+CC
+DD
+EE
+FF
+GG
+émissions de CO₂ très importantes
+Préparez votre projet !
+Contactez le conseiller France Rénov’
+le plus proche de chez vous, pour des
+conseils gratuits et indépendants sur
+vos choix de travaux et d’artisans :
+france-renov.gouv.fr/espaces-
+conseil-fr
+ou 0808 800 700 (prix d’un appel local)
+Vous pouvez bénéficier d’aides, de
+primes et de subventions pour vos
+travaux :
+france-renov.gouv.fr/aides
+Pour répondre à l’urgence
+climatique et environnementale,
+la France s’est fixée pour objectif
+d’ici 2050 de rénover l’ensemble
+des logements à un haut niveau de
+performance énergétique.
+À court terme, la priorité est
+donnée à la suppression des
+énergies fortement émettrices de
+gaz à effet de serre (fioul, charbon)
+et à l’éradication des «passoires
+énergétiques» d’ici 2028.
+Exemple de DPE, données fictives non représentatives
+DPE / ANNEXES
+
+Fiche technique du logement
+Cette fiche liste les caractéristiques techniques du bien diagnostiqué renseignées par le diagnostiqueur pour obtenir les
+résultats présentés dans ce document. En cas de problème, contactez la personne ayant réalisé ce document ou l’organisme
+certificateur qui l’a certifiée (diagnostiqueurs.din.developpement-durable.gouv.fr).
+Le présent rapport est établi par une personne dont les compétences sont certifiées par CERTIF 311, 3 rue Albain
+Durand 26000 Valence.
+référence du logiciel validé : TEST LOGICIEL v1
+référence du DPE : 2D20210532
+méthode de calcul : 3CL-DPE 2021
+date de visite du bien : 12/07/2021
+invariant fiscal du logement : 1234567890
+Numéro d’immatriculation de la copropriété : TC6670042
+référence de la parcelle cadastrale : 000AN0055
+Justificatifs fournis pour établir le DPE :
+→ plans de l’immeuble
+→ contrat d’exploitation de la chaudière
+Rapport d’entretien ou d’inspection de la chaudière joint au diagnostic
+La surface de référence d'un logement est la surface habitable du logement au sens de l'article R. 156-1 du code de la construction et de
+l'habitation, à laquelle sont ajoutées les surfaces des vérandas chauffées ainsi que les surfaces des locaux chauffés pour l'usage principal
+d'occupation humaine, d'une hauteur sous plafond d'au moins 1,80 mètres.
+Explications personnalisées sur les éléments pouvant amener à des différences entre les consommations
+estimées et les consommations réelles :
+s
+é
+t
+i
+l
+a
+r
+é
+n
+é
+g
+donnée d’entrée
+origine de la donnée
+valeur renseignée
+département
+altitude
+type de bien
+données en ligne
+26
+128 m
+mesurée ou observée
+immeuble collectif
+année de construction
+estimée
+surface de référence du bâtiment
+document fourni
+1960
+980 m²
+nombre de niveaux du bâtiment
+mesurée ou observée 5
+hauteur moyenne sous plafond
+mesurée ou observée 2,50 m
+nb. de logements du bâtiment
+document fourni
+15
+Exemple de DPE, données fictives non représentatives
+DPE / ANNEXES
+
+Fiche technique du bâtiment (suite)
+murs
+plancher bas
+toiture/plafonds
+fenêtres / baies
+portes
+ponts thermiques
+système de ventilation
+système de chauffage
+production d’eau chaude sanitaire
+climatisation
+e
+p
+p
+o
+l
+e
+v
+n
+e
+s
+t
+n
+e
+m
+e
+p
+i
+u
+q
+é
+Exemple de DPE, données fictives non représentatives
