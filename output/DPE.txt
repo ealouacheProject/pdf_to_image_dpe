@@ -1,0 +1,675 @@
+DPE
+
+Exemple de DPE, données ﬁctives non représentatives
+diagnostic de performance 
+énergétique (logement)
+
+n° : 2D20210532 
+
+établi le : 12/07/2021
+valable jusqu’au : 12/07/2031
+
+Ce document vous permet de savoir si votre logement est économe en énergie et préserve le climat. Il vous donne également des pistes pour 
+améliorer ses performances et réduire vos factures. Pour en savoir plus : <url_gouv_guide_pédagogique>
+
+<photo du bien>
+
+adresse : 42 avenue de la République, 44000 Nantes
+type de bien : maison individuelle
+année de construction : 2003
+surface habitable : 150m2
+
+propriétaire : Jean Dupont 
+adresse : place de la Mairie, 44000 Nantes
+
+52 kg CO₂/m².an
+
+émissions de CO₂  
+très importantes
+
+A B C ED
+
+F G
+
+* Dont émissions de gaz 
+à effet de serre 
+
+peu d’émissions de CO₂
+
+Performance énergétique
+
+logement très performant
+
+A B C ED
+
+F G
+
+consommation 
+(énergie primaire)
+
+émissions
+
+216
+
+kWh/m2.an
+
+52*
+
+kg CO₂/m².an
+
+passoire 
+énergétique
+
+logement extrêmement consommateur d’énergie
+
+Le niveau de consommation énergétique dépend de l’isolation du 
+logement et de la performance des équipements. 
+Pour l’améliorer, voir pages 4 à 6 
+
+Ce logement émet 7 933 kg de CO₂ par an, 
+soit l’équivalent de 41 107 km parcourus 
+en voiture. 
+Le niveau d’émissions dépend 
+principalement des types d’énergies 
+utilisées (bois, électricité, gaz, ﬁoul, etc.)          
+
+Estimation des coûts annuels d’énergie du logement
+
+Les coûts sont estimés en fonction des caractéristiques de votre logement et pour une utilisation standard sur 5 usages (chauffage, eau chaude sanitaire, 
+climatisation, éclairage, auxiliaires) voir p.3 pour voir les détails par poste.
+
+entre
+
+2 620 €
+
+et
+
+3 560 €
+
+par an
+
+Prix moyens des énergies indexés au 1er janvier 2021 (abonnements compris)
+
+Comment réduire ma facture d’énergie ? 
+voir p.3            
+
+Informations diagnostiqueur
+
+PM Diagnostics
+12 grande rue, 
+44000 Nantes
+diagnostiqueur : Pierre Martin
+
+tel : 02 88 22 33 09
+email : Pierre@pm-diagnostics.fr
+n° de certiﬁcation : FR410230 49 
+organisme de certiﬁcation : CERTIF 311
+
+LOGO
+
+ 
+ 
+ 
+DPE diagnostic de performance énergétique (logement)
+
+Exemple de DPE, données ﬁctives non représentatives
+i d
+
+é i
+
+é
+
+f
+
+p.2
+
+Schéma des déperditions de chaleur
+
+Performance de l’isolation
+
+ventilation 
+
+17%
+
+portes
+et fenêtres 
+
+12%
+
+toiture ou 
+plafond 
+
+34%
+
+murs 
+
+9%
+
+ponts thermiques 
+
+8%
+
+plancher bas 
+
+20%
+
+INSUFFISANTE
+
+MOYENNE
+
+BONNE
+
+TRÈS BONNE
+
+Système de ventilation en place
+
+Ventilation mécanique contrôlée 
+simple flux autoréglable.
+
+Confort d’été (hors climatisation)*
+
+Production d’énergies renouvelables
+
+INSUFFISANT
+
+MOYEN
+
+BON
+
+Les caractéristiques de votre logement améliorant le 
+confort d’été :
+
+Ce logement n’est pas encore équipé de systèmes de 
+production d’énergie renouvelable.
+
+Diverses solutions existent :
+
+pompe à chaleur
+
+chauffe-eau 
+thermodynamique
+
+panneaux solaires 
+photovoltaïques
+
+panneaux solaires 
+thermiques
+
+bonne inertie du logement
+
+logement traversant
+
+géothermie
+
+réseaux de 
+chaleur vertueux
+
+Pour améliorer le confort d’été :
+
+chauffage au 
+bois
+
+Équipez les fenêtres de votre logement de volets 
+extérieurs ou brise-soleil.
+
+Faites isoler la toiture du bâtiment
+(rapprochez-vous de votre copropriété).
+
+*Le niveau de confort d’été présenté ici s’appuie uniquement 
+sur les caractéristiques de votre logement (la localisation n’est 
+pas prise en compte).
+
+DPE diagnostic de performance énergétique (logement)
+
+Exemple de DPE, données ﬁctives non représentatives
+i d
+
+é i
+
+é
+
+f
+
+p.3
+
+Montants et consommations annuels d’énergie
+
+usage
+
+consommation d’énergie
+(en kWh énergie primaire)
+
+frais annuels d’énergie 
+(fourchette d’estimation*)
+
+répartition des dépenses
+
+chauffage
+
+ﬁoul 
+
+  22 500  (22 500 é.f.)
+
+entre 1740€ et 2370€
+
+eau chaude
+sanitaire
+
+électrique 
+
+    8 625  (3 750 é.f.)
+
+entre 750€ et 1030€
+
+refroidissement
+
+            0  (0 é.f.)
+
+0€
+
+éclairage
+
+électrique 
+
+       690 
+
+(300 é.f.)
+
+entre 60€ et 90€
+
+auxiliaires
+
+électrique 
+
+       690  (300 é.f.)
+
+entre 60€ et 90€
+
+énergie totale pour les 
+usages recensés :
+
+ 32 505 kWh
+
+                         (26 850 kWh é.f.)
+
+entre 2620€ et 3560€
+par an
+
+67%
+
+29%
+
+0%
+2%
+2%
+
+Pour rester dans cette fourchette 
+d’estimation, voir les recommandations 
+d’usage ci-dessous 
+
+Ces chiffres sont donnés pour une température de chauffage de 19°,
+une climatisation réglée à 28° (si présence de clim), 
+et une consommation d’eau chaude de 123ℓ par jour.
+
+é.f. → énergie ﬁnale
+
+* Prix moyens des énergies indexés au 1er janvier 2021 (abonnements compris)
+
+      Seules les consommations d’énergie nécessaires au chauffage, à la climatisation, 
+à la production d’eau chaude sanitaire, à l’éclairage et aux auxiliaires (ventilateurs, 
+pompes) sont prises en compte dans cette estimation.  Les consommations liées aux 
+autres usages (électroménager, appareils électroniques...) ne sont pas comptabilisées.
+
+      Les factures réelles dépendront de nombreux facteurs : prix des énergies, météo de 
+l’année (hiver froid ou doux...), nombre de personnes dans le logement et habitudes de 
+vie, entretien des équipements...
+
+Recommandations d’usage pour votre logement
+
+Quelques gestes simples pour maîtriser votre facture d’énergie :
+
+Température recommandée en hiver → 19°
+
+Chauffer à 19° plutôt que 21°, 
+c’est -15% sur votre facture soit -308€ par an
+
+→ Diminuez le chauffage quand  
+
+  astuces
+astuces :
+→ diminuez le chauffage quand  
+   vous n’êtes pas là
+vous n’êtes pas là.
+→ chauffez les chambres à 17° la nuit
+→ Chauffez les chambres à 17° la nuit.
+
+Si climatisation, 
+température recommandée en été → 28°
+
+Consommation recommandée → 132ℓ/jour
+d’eau chaude à 40°
+Estimation faite par rapport à la surface de votre logement
+(2-3 personnes). Une douche de 5 minute = environ 40ℓ. 
+
+54ℓ consommés en moins par jour,  
+c’est -29% sur votre facture soit -365€ par an
+
+En savoir plus sur les bons réflexes d’économie d’énergie :
+www.faire.gouv.fr/reduire-ses-factures-energie
+
+  astuces
+
+→ Fermez les fenêtres et volets la 
+journée quand il fait chaud.
+
+→ Aérez votre logement la nuit.
+
+  astuces
+
+→ Installez des mousseurs d’eau sur 
+
+les robinets et un pommeau à faible 
+
+  débit sur la douche.
+
+→ Réduisez la durée des douches.
+
+  
+ 
+ 
+ 
+ 
+ 
+DPE diagnostic de performance énergétique (logement)
+
+Exemple de DPE, données ﬁctives non représentatives
+i d
+
+é i
+
+é
+
+f
+
+Voir en annexe le descriptif complet et détaillé du logement et de ses équipements
+
+Vue d’ensemble du logement
+
+description
+
+murs
+
+Murs nord, ouest, sud en blocs de béton pleins donnant sur l’extérieur, avec isolation 
+intérieure.
+Mur est en blocs de béton creux donnant sur un garage, non isolé.
+
+plancher bas
+
+Plancher lourd type, entrevous terre-cuite, poutrelles béton donnant sur vide sanitaire,
+isolation inconnue.
+
+toiture/plafond
+
+Combles aménagés sous rampant donnant sur l’extérieur, isolé.
+
+portes et fenêtres
+
+Porte bois opaque pleine.
+Fenêtres battantes PVC, double vitrage et volets roulants PVC.
+Portes-fenêtres battantes avec soubassement PVC, double vitrage et volets roulants 
+PVC.
+
+p.4
+
+isolation
+
+bonne
+
+insufﬁsante
+
+insufﬁsante
+
+moyenne
+
+Vue d’ensemble des équipements
+
+description
+
+chauffage
+
+ Cheminée à foyer ouvert : son utilisation, même occasionnelle, est source de gaspillage 
+
+Chaudière ﬁoul standard installée entre 1991 et 2015 (système individuel).
+
+énergétique et présente de forts impacts sur la qualité de l’air.
+
+eau chaude sanitaire
+
+Ballon électrique à accumulation vertical, avec ballon séparé (système individuel).
+
+climatisation
+
+Sans objet
+
+ventilation
+
+VMC simple flux autoréglable installée avant 1982.
+
+Recommandations de gestion et d’entretien des équipements
+
+Pour maîtriser vos consommations d’énergie, la bonne gestion et l’entretien régulier des équipements de votre logement
+sont essentiels.
+
+type d’entretien
+
+VMC
+
+Nettoyer les bouches d’aération → 1 fois par an
+changer les ﬁltres → tous les 2 ans
+
+chaudière
+
+Entretien par un professionnel → 1 fois par an.
+
+radiateurs
+
+Nettoyer les radiateurs régulièrement pour garder leur efﬁcacité.
+
+éclairages
+
+Description
+
+vitrages
+
+Pour garder un logement lumineux penser à nettoyer les vitres régulièrement.
+
+circuit de chauffage
+
+Description
+
+climatiseur
+
+Description
+
+ Selon la conﬁguration, certaines recommandations relèvent de la copropriété ou du gestionnaire de l’immeuble.
+
+DPE diagnostic de performance énergétique (logement)
+
+Exemple de DPE, données ﬁctives non représentatives
+i d
+
+é i
+
+é
+
+f
+
+p.5
+
+Recommandations d’amélioration de la performance énergétique
+
+Des travaux peuvent vous permettre d’améliorer signiﬁcativement l’efﬁcacité énergétique de votre 
+logement et ainsi de faire des économies d’énergie, d’améliorer son confort, de le valoriser et de le 
+rendre plus écologique. Le pack       de travaux vous permet de réaliser les travaux prioritaires, 
+et le pack        d’aller vers un logement très performant. 
+
+Si vous en avez la possibilité, il est plus efﬁcace et rentable de procéder à une rénovation globale de 
+votre logement (voir packs de travaux       +      ci-dessous). La rénovation performante par étapes est 
+aussi une alternative possible (réalisation du pack       avant le pack      ). Faites-vous accompagner par 
+un professionnel compétent (bureau d’études, architecte, entreprise générale de travaux, groupement 
+d’artisans...) pour préciser votre projet et coordonner vos travaux.
+
+1
+
+lot
+
+Les travaux essentiels montant estimé : 9000 à 12000€
+
+description
+
+performance recommandée
+
+toiture et combles
+
+Isoler les combles.
+
+R = 4,5 m2.K/W
+
+chauffage
+
+Installer une pompe à chaleur.
+
+<chiffre_perf.>
+
+portes et fenêtres
+
+Refaire l’étanchéité des huisseries.
+
+<chiffre_perf.>
+
+2
+
+lot
+
+Les travaux à envisager montant estimé : 20000 à 25000€
+
+description
+
+performance recommandée
+
+murs
+
+Isolation des murs par l’extérieur.
+Si un ravalement de façade est prévu, effectuez une 
+isolation par l’extérieur avec des retours d’isolants au 
+niveau des tableaux de baie.
+
+ travaux pouvant nécessiter une autorisation d’urbanisme
+ travaux à réaliser par la copropriété
+
+R = 4,5 m2.K/W
+
+plancher bas
+
+Isolation du plancher bas en sous-face.
+
+<chiffre_perf.>
+
+eau chaude sanitaire
+
+Changer le chauffe-eau.
+
+<chiffre_perf.>
+
+ventilation
+
+Installer une VMC hydroréglable type B.
+
+<chiffre_perf.>
+
+Commentaires :
+
+DPE diagnostic de performance énergétique (logement)
+
+Exemple de DPE, données ﬁctives non représentatives
+i d
+
+é i
+
+é
+
+f
+
+p.6
+
+Préparez votre projet !
+
+Contactez le conseiller FAIRE le 
+plus proche de chez vous, pour des 
+conseils gratuits et indépendants sur 
+vos choix de travaux et d’artisans : 
+www.faire.gouv.fr/trouver-un-
+conseiller
+ou 0808 800 700 (prix d’un appel local)
+
+Vous pouvez bénéﬁcier d’aides, de 
+primes et de subventions pour vos 
+travaux :
+www.faire.gouv.fr/aides-de-
+ﬁnancement
+
+logement extrêmement consommateur d’énergie
+
+logement très performant
+
+A B C D E F G
+
+avec travaux      +
+consommation : 98 kWh/m2/an
+émissions : 10 kg CO₂/m².an
+
+avec travaux
+consommation : 124 kWh/m2/an
+émissions : 17 kg CO₂/m².an
+
+état actuel
+consommation : 216 kWh/m2/an
+émissions : 52 kg CO₂/m².an
+
+Recommandations d’amélioration de la performance énergétique (suite)
+
+Évolution de la performance énergétique après travaux
+
+Pour répondre à l’urgence 
+climatique et environnementale, 
+la France s’est ﬁxée pour objectif 
+d’ici 2050 de rénover l’ensemble 
+des logements à un haut niveau de 
+performance énergétique.
+
+À court terme, la priorité est 
+donnée à la suppression des 
+énergies fortement émettrices de 
+gaz à effet de serre (ﬁoul, charbon) 
+et à l’éradication des «passoires 
+énergétiques» (obligation de 
+travaux avant 2028).
+
+émissions de CO₂ très importantes
+
+Dont émissions de gaz à effet de serre
+
+peu d’émissions de CO₂
+
+A B C D E F G
+
+avec travaux      +
+10 kg CO₂/m2/an
+
+avec travaux
+17 kg CO₂/m2/an
+
+état actuel
+52 kg CO₂/m2/an
+
+
